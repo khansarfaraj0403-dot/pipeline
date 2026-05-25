@@ -1,6 +1,6 @@
 pipeline{
     agent any
-    env {
+    environment {
         PYTHON = "C:\\Users\\sarfa\\AppData\\Local\\Programs\\Python\\Python314\\python.exe"
     }
     stages{
